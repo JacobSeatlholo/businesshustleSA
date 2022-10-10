@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Webjeda cards
-email: your-email@domain.com
+title: Simple eternity holdings (Pty) Ltd
+email: info@businesshustle.co.za
 description: > # this means to ignore newlines until "baseurl:"
-  Webjeda Cards is a Bootstrap based jekyll theme for portfolio, photography or any kind of blog.
+  Business Hustle is a complete software development solutions and digital marketing services provider for startups. 
   
   
 #baseurl: "/cards" # the subpath of your site, e.g. /blog
